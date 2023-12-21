@@ -1,0 +1,17 @@
+/* Create a container for the content */
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: #fff;
+  padding: 2em;
+  box-shadow: 0 0 1em rgba(0, 0, 0, 0.1);
+}
+
+
+
+/* Add a logo */
+.logo {
+  max-width: 200px;
+  margin: 1em auto;
+  display: block;
+}
